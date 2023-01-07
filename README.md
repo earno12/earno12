@@ -8,6 +8,10 @@
 <a href="https://www.linkedin.com/in/elijah-e-arnold/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ElijahA35566456"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-335EA2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
+![earno12's GitHub stats](https://github-readme-stats.vercel.app/api?username=earno12&count_private=true&show_icons=true&theme=algolia) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earno12&show_icons=true&layout=demo&theme=algolia) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=earno12&theme=chartreuse-dark)](https://git.io/streak-stats)
+
 <!---
 earno12/earno12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
