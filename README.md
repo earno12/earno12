@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, JavaScript, SQL, PostgreSQL, Django, and React.
 - 💞️ I’m looking to collaborate on any portfolio building projects.
 - My special interests are web scraping, cryptography, and data visualization and analytics.
-- 📫 How to reach me earnold2010@gmail.com.
+- 📫 Email me at: earnold2010@gmail.com.
 
 <a href="https://www.linkedin.com/in/elijah-e-arnold/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ElijahA35566456"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-335EA2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
