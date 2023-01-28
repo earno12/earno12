@@ -7,6 +7,7 @@
 
 <a href="https://www.linkedin.com/in/elijah-e-arnold/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-335EA2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ElijahA35566456"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-335EA2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/19325618/earnold2010"><img alt="StackOverflow" src="https://img.shields.io/badge/-Stack%20Overflow-335EA2?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
 
 ![earno12's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=earno12&count_private=true&show_icons=true&theme=algolia) 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=earno12&show_icons=true&layout=demo&theme=algolia) 
